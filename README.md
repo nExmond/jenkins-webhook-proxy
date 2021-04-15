@@ -1,2 +1,2 @@
 # jenkins-webhook-proxy
-update!
+update! 1
